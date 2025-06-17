@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **BSc(hons) computer science degree**
 
-- 👨‍💻 All of my projects are available at [https://poorna-madusith.github.io/Portfolio/](https://poorna-madusith.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [[https://poorna-madusith.github.io/Portfolio/](https://poorna-madusith.github.io/Portfolio/)](https://poornakahandakorala.netlify.app/)
 
 - 💬 Ask me about **python,java,javascript and Web Development**
 
