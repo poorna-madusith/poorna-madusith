@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=poorna-madusith">
+<img align="right" src="https://komarev.com/ghpvc/?username=poorna-madusith&label=Profile%20views&color=0e75b6&style=flat">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
