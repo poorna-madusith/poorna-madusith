@@ -8,10 +8,12 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/poorna-kahandakorala-927710264/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
-  <code><a href="https://github.com/poorna-madusith" title="GitHub Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> GitHub</a></code>
+  <code><a href="https://github.com/poorna-madusith" title="GitHub Profile"><img width="22" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"> GitHub</a></code>
   <code><a href="https://www.facebook.com/poorna.madusith.1" title="Facebook Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"> Facebook</a></code>
-  <code><a href="https://www.instagram.com/_poorna77/" title="Instagram Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/_poorna77/" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"> Instagram</a></code>
 </h5>
+
+
 <br>
 <p align="center">
   Hi, I'm Poorna Kahandakorala, A Computer Science undergraduate with a strong passion for building innovative and impactful software solutions.
