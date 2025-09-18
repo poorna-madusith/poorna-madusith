@@ -26,7 +26,10 @@
   📫 Reach me at: 
   <a href="mailto:poornamadusith95@gmail.com">poornamadusith95@gmail.com</a>
 </p>
-
+<p align="center">
+  👨🏻‍💻 Portfolio: 
+  <a href="https://poornakahadankorala.netlify.app/">poornakahandakorala.com</a>
+</p>
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <p align="center">
